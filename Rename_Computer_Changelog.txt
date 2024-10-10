@@ -1,0 +1,8 @@
+Creation date: 20240625
+Version: 1.0
+Date: 20240625
+Changelog: Creation
+
+Version: 2.0
+Date: 20240912
+Changelog: Removed <<if ($restart -eq "Y")>> and replaced with Swith statment, added function, other QOL changes
